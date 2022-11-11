@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @batuhankulfel
+- 👋 Hi, I’m Batuhan KULFEL
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Mobile Development.
 - 📫 How to reach me [batuhankulfel.com](https://batuhankulfel.com/)
